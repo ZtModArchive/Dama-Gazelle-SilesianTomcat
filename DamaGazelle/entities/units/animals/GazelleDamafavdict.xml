@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <GazelleDamaEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\GazelleDama\GazelleDamaEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </GazelleDamaEmote>
+</BFParticleDictionary>

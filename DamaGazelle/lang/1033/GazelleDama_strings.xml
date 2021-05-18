@@ -1,0 +1,153 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <GazelleDama>Dama Gazelle</GazelleDama>
+      <GazelleDama_stt>Dama gazelle</GazelleDama_stt>
+      <GazelleDama_lower>the dama gazelle</GazelleDama_lower>
+      <GazelleDama_ltt>
+         <color r="255" g="248" b="178">
+            <b>Gazelle Dama</b>
+         </color>
+         <br/>
+         Click to select and then place an Dama Gazelle, a one of the large's gazelles.
+      </GazelleDama_ltt>
+      <!--gift names-->
+      <GazelleDama_Gift>Dama Gazelle Stuffed Animal</GazelleDama_Gift>
+      <GazelleDama_Gift_stt>Dama gazelle stuffed animal</GazelleDama_Gift_stt>
+      <GazelleDama_Gift_lower>the dama gazelle stuffed animal</GazelleDama_Gift_lower>
+      <GazelleDama_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Dama Gazelle Stuffed Animal</b>
+         </color>
+         <br/>Guests who enjoy watching the Dama Gazelle will buy this gift.
+      </GazelleDama_Gift_ltt>
+   </entityname>
+   <zoopedia_gazelledama>
+      <entry>Gazelle, Dama</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+<cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/GazelleDama/GazelleDama_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+<br/>
+<cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="155" b="0">
+Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Desert<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Northern Africa<br/></color>
+                  <img src="ui/icon_maplocations/Desert_Africa_Sahara.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Even-Toed Ungulates <i>(Artiodactyla)</i><br/>Family: Bovids <i>(Bovidae)</i><br/>Genus: <i>Gazella</i><br/>Species:<i>dama</i><br/>Subspecies:<i>ruficolis</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Dama Gazelle Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The dama gazelle is the largest gazelle.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">There are approximately 200 dama gazelles in captivity which are being managed under the North American Species Survival Plan.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The dama gazelle weighs 40 - 85 kg (90 - 190 lb).  It stands 88 - 108 cm (34- 42") at the shoulder.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The dama gazelle is found in the Sahara Desert and the Sahel.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The horns are found in both sexes, though are generally larger and thicker in males.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+                <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Dedicated for my daughters Romana and Anezka.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the Dama Gazelle in challenge or campaign games, you must earn a 1-1/2-star zoo fame rating for your zoo.</color>
+            <p/>The dama gazelle weighs up to 85 kg (190 lb) and stands up to 108 cm (42") tall at the shoulder. It is found in the Sahara Desert and the Sahel.  While avoiding mountains and dunes, it favors stony plains and plateaus, inter-dunal depressions with shallow sandy soils, and undulating foothills and steppes.  The dama gazelle is highly drought resistant - most of its water is obtained from its plant food.  It browses on various desert shrubs and acacias, and it eats rough desert grasses in times of drought.  Dama gazelles move into the Sahara in the wet season and out of the Sahara (both to the north and to the south) to moister parts of their range for the dry season.  The social organization of dama gazelles is greatly affected by the seasons. Herds typically spend the dry season in the Sahel where they occur singly or in mixed groups of 10 - 15. With the onset of the rainy season, they migrate into the desert and can be found in aggregations which, in the past, included up to several hundred males and females. 
+<p/> The dama gazelle was once one of the most numerous and widespread of Saharan gazelles from Morocco, Senegal and Mauritania eastward to the Sudan. It experienced a significant decline during the 1950's through the 1970's. By the early 1980's it still occurred over the same general range but was extinct in most areas within its range, though perhaps still locally abundant in some places. It is now thought to occur in the wild only in Algeria, Chad, Mali, Niger, and Sudan.  It has been re-introduced in Senegal.
+
+
+<p/> Formerly, hunting was the major cause of the decline of the dama gazelle, especially after motorized hunting with modern firearms began. Recently, the dama gazelle's habitat has become increasingly drier and less suitable, due to long-term climate change as well as to overgrazing by livestock and loss of tree cover due to clearing by man. Furthermore, the increasing presence of livestock has driven the gazelle away from the pastures where it formerly obtained both food and water.  Civil unrest in the area where it resides has also contributed to its decline. 
+<p/> The dama gazelle is found in the Sahara Desert and the Sahel.  It favors stony plains and plateaus, often around the edges of hills;  inter-dunal depressions with shallow sandy soils; and undulating foothills.  It avoids mountains and dunes.
+<p/>The dama gazelle is a desert/semi-desert species and is drought resistant. Most of its water is obtained from its plant food.  It is both a browser and a grazer.  The dama gazelle browses on various desert scrubs and acacias, standing on its hind legs to reach higher leaves. In times of drought it also eats rough desert grasses.The social organization of dama gazelles is greatly affected by the seasons. Herds typically spend the dry season in the Sahel where they occur singly or in mixed groups of 10 - 15, composed of a dominant adult male, several adult females, and young. With the onset of the rainy season, they migrate into the desert, where, in the past, aggregations including males and females could include several hundred individuals.
+            
+                                      
+                       
+                       
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620"><u><color r="255" g="231" b="135">www.animalinfo.org Recoloured and coded animal by Roman Kocourek-Silesian Tomcat</color></u>
+         </cell>
+      </text>
+   </zoopedia_gazelledama>
+</ZT2Strings>
